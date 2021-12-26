@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>basket_Trim 018.jpg</filename>
+  <path>C:\Users\User2\OneDrive\&#1056;&#1072;&#1073;&#1086;&#1095;&#1080;&#1081; &#1089;&#1090;&#1086;&#1083;\OpenLabeling-master\main\input\basket_Trim 018.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>basketball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>837</xmin>
+      <ymin>442</ymin>
+      <xmax>867</xmax>
+      <ymax>461</ymax>
+    </bndbox>
+  </object>
+</annotation>
